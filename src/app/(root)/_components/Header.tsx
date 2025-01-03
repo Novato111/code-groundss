@@ -7,7 +7,7 @@ import { Blocks, Code2, Sparkles } from "lucide-react";
 import LanguageSelector from "./LanguageSelector";
 import ThemeSelector from "./ThemeSelector";
 import RunButton from "./RunButton";
-import { SignedIn, SignedOut, SignIn, SignInButton } from "@clerk/nextjs";
+import { SignedIn, SignedOut, SignInButton } from "@clerk/nextjs";
 import HeaderProfileBtn from "./HeaderProfileBtn";
 import { cn } from "@/lib/utils";
 import { RainbowButton } from "@/components/ui/rainbow-button";

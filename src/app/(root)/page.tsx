@@ -2,12 +2,9 @@ import React from "react";
 
 import { MacbookScroll } from "@/components/ui/macbook-scroll";
 
-import { Code2, Users, Github } from "lucide-react";
-import Marquee from "@/components/ui/marquee";
-
 import { Frameworks } from "./_components/Framework";
 
-import LanguageLogo, { Languages } from "./_components/Languages";
+import { Languages } from "./_components/Languages";
 import Link from "next/link";
 export default function Page() {
   return (

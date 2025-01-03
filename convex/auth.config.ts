@@ -1,4 +1,4 @@
-export default {
+const config = {
   providers: [
     {
       domain: "https://rested-satyr-6.clerk.accounts.dev",
@@ -6,3 +6,4 @@ export default {
     },
   ],
 };
+export default config;
